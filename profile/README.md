@@ -5,7 +5,7 @@ Hello and Welcome to Celio-Link
 Celio-Link brings the modern age to the classic Pokémon Gameboy Advance games. It works with
 original, unmodified Hardware and lets you Trade, Battle and Record Mix with friends globally.
 
-To use Celio-Link, you will need a "Celio-Device". It consist of a Raspberry Pi RO2040 and
+To use Celio-Link, you will need a "Celio-Device". It consist of a Raspberry Pi RP2040 and
 a PCB for Gameboy Advance Link Cable connectivity. 
 
 Visit the [Celio-Firmware project](https://github.com/Celio-Link/Celio-Firmware) for more information on the Celio-Device.
