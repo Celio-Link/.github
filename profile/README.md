@@ -16,9 +16,9 @@ Visit the Celio-Firmware for more information on the Celio-Device.
 
 - Online Trading  
 - Online Battles  
-- Oline Record Mixing
+- Online Record Mixing
 - Online Contests (Emerald only)
-- Online Battle Twoer Double Battle (Emerald only)
+- Online Battle Tower Double Battle (Emerald only)
 - Works with original, unmodified hardware  
 - Built-in Trade Emulator (no second console required)
 
