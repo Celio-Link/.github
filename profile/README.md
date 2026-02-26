@@ -8,7 +8,7 @@ original, unmodified Hardware and lets you Trade, Battle and Record Mix with fri
 To use Celio-Link, you will need a "Celio-Device". It consist of a Raspberry Pi RO2040 and
 a PCB for Gameboy Advance Link Cable connectivity. 
 
-Visit the Celio-Firmware for more information on the Celio-Device.
+Visit the (Celio-Firmware project)[https://github.com/Celio-Link/Celio-Firmware] for more information on the Celio-Device.
 
 ---
 
