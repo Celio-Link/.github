@@ -57,7 +57,7 @@ Visit the Celio-Client:
 
 ## Trade Emulator
 
-Want to test Celio-Link without a second Game Boy?
+Want to test Celio-Link without an online friend?
 
 Use the built-in **Trade Emulator** to trade Pokémon solo.
 
