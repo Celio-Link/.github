@@ -78,7 +78,7 @@ Watch Celio-Link Trade Emulation:
 
 Watch Celio-Link Online Play:
 
-[![Watch the video](https://img.youtube.com/vi/VG4h6XtFpLk/0.jpg)](https://www.youtube.com/watch?v=VG4h6XtFpLk)
+[![Watch the video](https://img.youtube.com/vi/pNdXG88-810/0.jpg)](https://www.youtube.com/watch?v=pNdXG88-810)
 
 ---
 
